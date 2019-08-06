@@ -4,7 +4,7 @@ This plguin allows you to create a scrable like board instantly. Allows the user
 
 The plugin is more of a starter for setting up whatever scrable board like tool you are wanting to build. 
 
-#Methods
+# Methods
 
 The plugin has 3 public function to use for now:
 
@@ -26,7 +26,7 @@ $("#scrable-board").data('plugin_ScrableBoard').totalCellEnteredCount()
 ![alt text](https://raw.githubusercontent.com/bigfetz/ScrableBoard/master/scrableDemo.PNG)
 
 
-#installation
+# Installation
 
 To install add the css file 
 ```
